@@ -1,0 +1,7 @@
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT2\TASK1POINT2\bin\Debug\TASK1POINT2.exe.config
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT2\TASK1POINT2\bin\Debug\TASK1POINT2.exe
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT2\TASK1POINT2\bin\Debug\TASK1POINT2.pdb
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT2\TASK1POINT2\obj\Debug\TASK1POINT2.csprojAssemblyReference.cache
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT2\TASK1POINT2\obj\Debug\TASK1POINT2.csproj.CoreCompileInputs.cache
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT2\TASK1POINT2\obj\Debug\TASK1POINT2.exe
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT2\TASK1POINT2\obj\Debug\TASK1POINT2.pdb
